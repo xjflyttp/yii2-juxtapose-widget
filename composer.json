@@ -1,0 +1,21 @@
+{
+    "name": "xj/yii2-juxtapose-widget",
+    "description": "yii2-juxtapose-widget",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "bower-asset/juxtapose": "~1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\juxtapose\\": ""
+        }
+    }
+}
